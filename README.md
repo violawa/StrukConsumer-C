@@ -78,5 +78,4 @@ Harga Total: Rp. 175000.00
 Terima kasih atas kunjungannya
 Eat-Sleep-Game-Repeat!!
 ```
-
 Happy gaming!
