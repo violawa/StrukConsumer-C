@@ -35,7 +35,6 @@ Run the compiled program:
 ```sh
 ./StrukConsumer
 ```
-
 ## Usage
 1. **Run the Program**: Upon running the program, you'll be prompted to enter your personal information.
 2. **Enter Personal Information**: Input your full name, address, postal code, province, and phone number when prompted.
